@@ -7,26 +7,26 @@
 ```
 .
 ├── css
-│   └── index.html
+│   └── /
 ├── files
 │   ├── image
-│   │   └── index.html
-│   ├── index.html
+│   │   └── /
+│   ├── /
 │   ├── json
-│   │   └── index.html
+│   │   └── /
 │   ├── more
-│   │   └── index.html
+│   │   └── /
 │   └── uploads
-│       └── index.html
+│       └── /
 ├── html
 │   └── index.html
 ├── index.php
 ├── js
-│   └── index.html
+│   └── /
 └── php
     ├── config
-    │   ├── config.php
-    │   └── index.html
+    │   └── config.php
+    │   
     ├── function
     │   ├── all.php
     │   └── index.php
